@@ -70,7 +70,22 @@
     </main>
 
     <footer>
-        
+        <div class="container d-flex justify-content-between">
+            <div class="left">
+                <span>Google</span>
+                <span>Tutto su Google</span>
+                <span>Privacy</span>
+                <span>Termini</span>
+            </div>
+            <div class="right">
+                <select>
+                    <option value="Italiano">Italiano</option>
+                    <option value="Inglese">Inglese</option>
+                    <option value="Francese">Francese</option>
+                    <option value="Spagnolo">Spagnolo</option>
+                </select>
+            </div>
+        </div>
     </footer>
 
 </body>
